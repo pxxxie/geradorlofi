@@ -1,0 +1,146 @@
+
+    body{
+        background-color: #f7f6e7;
+      }
+       canvas {
+       border: 1px solid black;
+       }   
+  
+       #cliqueventilador {
+       position: absolute;
+       width: 296px;
+       height: 90px;
+       left: 400px;
+       }
+  
+      
+       #cliquepisca{
+       position: absolute;
+       width: 310px;
+       height: 135px;
+       left: 730px;
+       }
+     
+   
+       #cliqueviolao{
+       position: absolute;
+       width: 117.25px;
+       height: 194px;
+       left: 1173px;
+       top: 535px;
+       }
+         
+       
+       #cliqueradio{
+       position: absolute;
+       width: 77.53px;
+       height: 71.39px;
+       left: 0.43px;
+       top: 448.91px;
+       }
+       
+  
+       #cliqueswift{
+       position: absolute;
+       width: 63px;
+       height: 52px;
+       left: 759px;
+       top: 625px;
+       }
+    
+       
+       #cliqueporta{
+       position: absolute;
+       width: 153px;
+       height: 369px;
+       left: 82px;
+       top: 123px;
+       } 
+  
+  
+       #cliquepc{
+       position: absolute;
+       width: 119px;
+       height: 194px;
+       left: 1084px;
+       top: 331px;
+       }
+  
+       
+       #cliquegatoJanela{
+       position: absolute;
+       width: 56.93px;
+       height: 98.2px;
+       left: 1023.73px;
+       top: 283.92px;
+       }
+       
+    
+       #cliquecelular{
+       position: absolute;
+       width: 46px;
+       height: 34px;
+       left: 639px;
+       top: 424px;
+       }
+  
+  
+       #cliquegatoCama{
+       position: absolute;
+       width: 107px;
+       height: 71px;
+       left: 464px;
+       top: 397px;
+       }
+     
+  
+       #cliquejanelaChuva{
+        position: absolute;
+        width: 339.02px;
+        height: 249.47px;
+        left: 283.11px;
+        top: 82.86px;
+        }
+  
+       #cliquegatoPrateleira{
+       position: absolute;
+       width: 86px;
+       height: 79px;
+       left: 4px;
+       top: -3px;
+       }
+  
+       #cliquePTriste{
+       position: absolute;
+       width: 124.71px;
+       height: 88.49px;
+       left: 821.93px;
+       top: 125.67px;
+       }
+      
+  
+       #cliquePRelaxante{
+       position: absolute;
+       width: 99px;
+       height: 110px;
+       left: 871px;
+       top: 217px;
+       }
+      
+  
+       #cliquePNostalgia{
+       position: absolute;
+       width: 113.14px;
+       height: 93.49px;
+       left: 630.32px;
+       top: 239.91px;
+       }
+  
+       #cliquePAcolhedor{
+       position: absolute;
+       width: 104.8px;
+       height: 58px;
+       left: 352.3px;
+       top: 336.32px;
+       }
+  
